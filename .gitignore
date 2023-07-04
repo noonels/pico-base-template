@@ -1,0 +1,23 @@
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+elf2uf2/
+generated/
+pico-sdk/
+pioasm/
+
+# build artifacts
+*.uf2
+*.bin
+*.elf
+*.hex
+*.map
+*.dis
