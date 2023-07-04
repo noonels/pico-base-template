@@ -1,0 +1,5 @@
+To build the project:
+ - set PICO_SDK_PATH to the location of the pico SDK
+ - cd into build/
+ - run `cmake ..`
+ - copy `<name>.uf2` to raspberry pi pico
